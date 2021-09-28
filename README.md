@@ -3,7 +3,7 @@ Welcome to my Github Page.
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/NimritaKoul/nimritakoul.github.io/blob/gh-pages/0.png">
+  <img width="460" height="300" src="https://abrainyquote.com/wp-content/uploads/2020/03/winter.jpg">
 </p>
 
 
