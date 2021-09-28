@@ -1,3 +1,10 @@
+<head>
+      {/* all socials */}
+      <meta property="og:image" content={previewImageSrc} />
+      {/* twitter */}
+      <meta name="twitter:image" content={previewImageSrc} />
+</head>
+
 Welcome to my Home Page. 
 
 
