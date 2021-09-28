@@ -1,5 +1,5 @@
 # nimritakoul.github.io
-Welcome to my Github Page. 
+Welcome to my Home Page. 
 
 
 <p align="center">
