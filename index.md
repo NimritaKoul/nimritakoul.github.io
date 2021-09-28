@@ -5,9 +5,9 @@ Welcome to my Github Page.
   <img width="460" height="300" src="https://github.com/NimritaKoul/nimritakoul.github.io/blob/gh-pages/0.png">
 </p>
 
-<p align="center">
+
 ![0](https://user-images.githubusercontent.com/29142616/135067736-8b1ad6a1-77cf-4f9e-b18c-955237d673b4.png)
-</p>
+
 
 
 I am Nimrita Koul, an Assistant Professor in Machine Learning and Data Science. I live in Bangalore, India.
