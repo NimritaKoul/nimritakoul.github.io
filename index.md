@@ -1,5 +1,10 @@
 Welcome to my Github Page. 
-[Marie Curie's Quote](https://github.com/NimritaKoul/nimritakoul.github.io/blob/gh-pages/0.png)
+
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
 
 ![0](https://user-images.githubusercontent.com/29142616/135067736-8b1ad6a1-77cf-4f9e-b18c-955237d673b4.png)
 
