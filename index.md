@@ -1,8 +1,4 @@
-<head>
-     
-      <meta property="og:image" content={previewImageSrc} />
-           
-</head>
+
 
 Welcome to my Home Page. 
 
