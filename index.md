@@ -1,5 +1,3 @@
-
-
 Welcome. Thanks for visiting. 
 
 
@@ -18,4 +16,15 @@ Here is the link to my [Wordpress](https://wordpress.com/stats/day/nimritakoulbl
 
 I am interested in continuous learning and am open to joint research work in the domain of Machine Learning. 
 
+Projects-
 
+I am working on following projects at present
+
+- Machine Learning for Cancer Diagnosis and Research
+- Blockchain Based Health Care System
+- Optical Character Recognition for Indic Languages 
+
+Events-
+- Was one of the judges for UAB Cancer Data Science Hackathon, by The University of Alabama at Birmingham, on August 9-10, 2021
+- Speaking at PyData Global 2021 on October 28, 2021
+- Speaking at WWCode CONNECT Forward 2021 Women Who Code conference on November 19, 2021
