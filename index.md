@@ -16,15 +16,38 @@ Here is the link to my [Wordpress](https://wordpress.com/stats/day/nimritakoulbl
 
 I am interested in continuous learning and am open to joint research work in the domain of Machine Learning. 
 
-Projects-
+I am an investigator for two research projects funded by Department of Science and Technology, Government of India. These funds have helped establish the Center of Excellence in Cognitive Technologies and Cyber Security at REVA University. The center has two research labs funded by DST, GoI. At present, we are working on 2 DST funded research projects as well as Deep Learning Projects for Healthcare applications under Nvidia Jetson Nano 2GB Grant Program.
 
-I am working on following projects at present
+1. **DST-ICPS 2018 Grant Project - Cancer Classification using Gene Expression Data**
 
-- Machine Learning for Cancer Diagnosis and Research
-- Blockchain Based Health Care System
-- Optical Character Recognition for Indic Languages 
+      Investigators - Nimrita Koul and Dr. Sunilkumar S Manvi
+      
+      Technologies - Machine Learning, Deep Learning, Data Science
+      
+      Equipment - 
+        - 2 Workstations - Intel Core i7-10700, 16 GB RAM, 4.8GhZ with NVIDIA GeForce RTX 4000, 8GB GPU, WIndows 10 Professional
+        - 7 Desktop Machines- Intel Core i7-10700, 4.8GhZ. 8GB RAM
+        Total:  9 Machines
+        
+2. **DST-TIASN 2020 Grant Project - Blockchain Enabled Organ Donation and Transplant System**
 
-Here is the link to my newly established [research lab].(nimritakoul.github.io)
+      Investigators - Nimrita Koul and Dr. Sunilkumar S Manvi
+      
+      Technologies - Blockchain, Machine Learning
+      
+      Equipment - 
+      - 3 Workstations - Intel Core i7-10700, 32 GB RAM, 4.8GhZ with NVIDIA GeForce RTX 3070,  8GB GPU, WIndows 10 Professional
+      - 12 Desktop Machines - Intel Core i7-10700, 4.8GhZ. 16GB RAM
+      Total : 15 Machines
+      
+3. **NVIDIA Jetson Nano 2GB Grant Program** -
+
+    - Posture Correction using Deep Learning
+    - Skin Problems Prediction using CNNs
+    - Cancer Diagnosis from Images
+    
+    Equipment - 4 NVIDIA Jetson Nano 2GB Kits
+
 
 Events-
 - Was one of the judges for UAB Cancer Data Science Hackathon, by The University of Alabama at Birmingham, on August 9-10, 2021
