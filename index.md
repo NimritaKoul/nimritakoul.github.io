@@ -23,7 +23,9 @@ I am working on following projects at present
 - Machine Learning for Cancer Diagnosis and Research
 - Blockchain Based Health Care System
 - Optical Character Recognition for Indic Languages 
-Here is the link to my newly established [research lab]
+
+Here is the link to my newly established [research lab](nimritakoul.github.io)
+
 Events-
 - Was one of the judges for UAB Cancer Data Science Hackathon, by The University of Alabama at Birmingham, on August 9-10, 2021
 - Speaking at PyData Global 2021 on October 28, 2021
