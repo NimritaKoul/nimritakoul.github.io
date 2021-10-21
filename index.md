@@ -52,4 +52,6 @@ I am an investigator for two research projects funded by Department of Science a
 Events-
 - Was one of the judges for UAB Cancer Data Science Hackathon, by The University of Alabama at Birmingham, on August 9-10, 2021
 - Speaking at PyData Global 2021 on October 28, 2021
+     https://pydata.org/global2021/schedule/
 - Speaking at WWCode CONNECT Forward 2021 Women Who Code conference on November 19, 2021
+     https://hopin.com/events/connect-forward-2021/registration
