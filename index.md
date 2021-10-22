@@ -57,5 +57,5 @@ Events-
      https://hopin.com/events/connect-forward-2021/registration
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/NimritaKoul/nimritakoul.github.io/blob/gh-pages/womenwhocodespeakercard.png?raw=true">
+  <img width="560" height="400" src="https://github.com/NimritaKoul/nimritakoul.github.io/blob/gh-pages/womenwhocodespeakercard.png?raw=true">
 </p>
