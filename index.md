@@ -55,3 +55,7 @@ Events-
      https://pydata.org/global2021/schedule/
 - Speaking at WWCode CONNECT Forward 2021 Women Who Code conference on November 19, 2021
      https://hopin.com/events/connect-forward-2021/registration
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NimritaKoul/nimritakoul.github.io/blob/gh-pages/womenwhocodespeakercard.png?raw=true">
+</p>
