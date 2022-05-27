@@ -13,7 +13,7 @@ Here are links to my [Google Scholar](https://scholar.google.co.in/citations?use
 
 I am interested in continuous learning and am open to joint research work in the domain of Machine Learning. 
 
-I am an investigator for two research projects funded by Department of Science and Technology, Government of India. These funds have helped establish the Center of Excellence in Cognitive Technologies and Cyber Security at REVA University. The center has two research labs funded by DST, GoI. At present, we are working on 2 DST funded research projects as well as Deep Learning Projects for Healthcare applications under Nvidia Jetson Nano 2GB Grant Program.
+I am an investigator for three research projects funded by Department of Science and Technology, Government of India. These funds have helped establish the Center of Excellence in Cognitive Technologies and Cyber Security at REVA University. The center has two research labs funded by DST, GoI. I also have NVIDIA Jetson Nano 2GB grant from NVIDIA. I received NVIDIA Research Accelerator Award from NVIDIA in 2022. 
 
 1. **DST-ICPS 2018 Grant Project - Cancer Classification using Gene Expression Data**
 
@@ -28,7 +28,7 @@ I am an investigator for two research projects funded by Department of Science a
         
 2. **DST-TIASN 2020 Grant Project - Blockchain Enabled Organ Donation and Transplant System**
 
-      Investigators - Nimrita Koul and Dr. Sunilkumar S Manvi
+      Investigators - Dr. Nimrita Koul and Dr. Sunilkumar S Manvi
       
       Technologies - Blockchain, Machine Learning
       
@@ -37,7 +37,13 @@ I am an investigator for two research projects funded by Department of Science a
       - 12 Desktop Machines - Intel Core i7-10700, 4.8GhZ. 16GB RAM
       Total : 15 Machines
       
-3. **NVIDIA Jetson Nano 2GB Grant Program** -
+3. **DST-SHRI 2022 Grant Project - Preservation and Translation of Prominent Literature in Sharda Script of Jammu and Kashmir**
+    
+     Investigators - Dr. Nimrita Koul 
+      
+     Technologies - Natural Language Processing, Deep Learning
+           
+4. **NVIDIA Jetson Nano 2GB Grant Program** 
 
     - Posture Correction using Deep Learning
     - Skin Problems Prediction using CNNs
@@ -45,6 +51,9 @@ I am an investigator for two research projects funded by Department of Science a
     
     Equipment - 4 NVIDIA Jetson Nano 2GB Kits
 
+5. **NVIDIA Research Accelerator Award** 
+     
+     For the project - Machine Translation of Sharda Script into English
 
 Events-
 - Was one of the judges for UAB Cancer Data Science Hackathon, by The University of Alabama at Birmingham, on August 9-10, 2021
@@ -56,3 +65,5 @@ Events-
 <p align="center">
   <img width="560" height="400" src="https://github.com/NimritaKoul/nimritakoul.github.io/blob/gh-pages/womenwhocodespeakercard.png?raw=true">
 </p>
+
+If you would like to work together with me on any of the above projects or would like to help me with your projects on Machine Learning or Data Science please get in touch at nimrita.koul@reva.edu.in
