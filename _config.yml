@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: minima
 title: Welcome to Nimrita's Homepage.
 plugins:
   - jekyll-relative-links
