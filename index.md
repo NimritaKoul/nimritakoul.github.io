@@ -6,7 +6,7 @@ Welcome. Thanks for visiting.
 </p>
 
 
-I am Nimrita Koul, an Assistant Professor in Machine Learning and Data Science. I live in Bangalore, India.
+I am Nimrita Koul, an Associate Professor in Machine Learning and Data Science. I live in Bangalore, India.
 I am a [Kashmiri Pandit](https://en.wikipedia.org/wiki/Exodus_of_Kashmiri_Hindus) and a strong believer in Ancient Indian Wisdom of [Advait Vedanta](https://www.advaita-vedanta.org/avhp/). [Shri Ramana Maharshi](https://www.sriramanamaharshi.org/) of Tiruannamalai, India, is my spiritual perceptor.
 
 Here are links to my [Google Scholar](https://scholar.google.co.in/citations?user=lD_Ce2gAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/nimritakoul/) and [Vidhwan](https://vidwan.inflibnet.ac.in/profile/115748) profiles. Here is my [Wordpress](https://wordpress.com/stats/day/nimritakoulblog.wordpress.com) Blog. I update it less often.
